@@ -1,8 +1,8 @@
 # Создание Data Mart (витрины данных)
 
-Данные взяты из [Kaggle](https://www.kaggle.com/datasets/rishikumarrajvansh/credit-card-data).
+Данные взяты c [Kaggle](https://www.kaggle.com/datasets/rishikumarrajvansh/credit-card-data).
 
-Стек: Jupiter Notebook, Pandas
+Стек: Jupiter Notebook, Pandas.
 
 Этапы:
 1. Импортирование библиотеки pandas;
